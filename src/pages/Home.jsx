@@ -12,7 +12,7 @@ const Home = () => {
         <img
           src={profileImage}
           alt="Profile"
-          className="w-full h-59 object-cover"
+          className="object-cover"
         />
       </div>
       <h2 className="mt-6 text-4xl font-bold text-white">
@@ -24,7 +24,7 @@ const Home = () => {
         building responsive and user-friendly websites using modern web
         technologies. As an entry-level developer, I'm focused on growing my
         skills and bringing creative ideas to life through clean, accessible
-        code. I'm excited to collaborate, learn, and contribute to impactful
+        code. I’m excited to collaborate, learn, and contribute to impactful
         projects in the tech space.
       </p>
       <div className="mt-6 flex gap-4 justify-center">
