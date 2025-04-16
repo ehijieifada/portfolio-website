@@ -7,7 +7,7 @@ const About = () => {
       className="min-h-screen flex items-center justify-center bg-black text-white px-10 md:px-16 py-12"
     >
       <div className="max-w-3xl text-center space-y-6">
-        <h2 className="text-3xl md:text-4xl font-bold text-purple-400 mb-4 mt-10">
+        <h2 className="text-3xl md:text-4xl font-bold text-purple-400 mb-4 mt-5">
           About Me
         </h2>
 
