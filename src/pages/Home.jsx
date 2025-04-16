@@ -5,9 +5,10 @@ import { Link } from "react-scroll";
 const Home = () => {
   return (
     <div
-      id="home"
-      className="px-6 md:px-16 py-12 min-h-screen bg-black text-white flex flex-col items-center justify-center px-4 text-center"
+    id="home"
+    className="px-6 md:px-16 pt-2 pb-15 min-h-screen bg-black text-white flex flex-col items-center justify-center text-center"
     >
+  
       <div className="w-40 h-40 sm:w-44 sm:h-44 md:w-48 md:h-48 overflow-hidden rounded-full border-4 border-gray-700 shadow-lg">
         <img
           src={profileImage}
