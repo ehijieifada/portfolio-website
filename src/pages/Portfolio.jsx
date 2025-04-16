@@ -23,9 +23,9 @@ const projects = [
 
 const Portfolio = () => {
   return (
-    <div className="portfolio-container" style={{ padding: '2rem' }}>
+    <div className="justify-items-center" style={{ padding: '2rem' }}>
       <h2 style={{ fontSize: '2rem', fontWeight: 'bold' }}>My Portfolio</h2>
-      <p style={{ marginBottom: '1.5rem' }}>
+      <p className="mb-4 text-blue-400">
         Here are a few projects I've worked on recently. Click on any to explore the live site!
       </p>
       <div className="projects-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '1.5rem' }}>

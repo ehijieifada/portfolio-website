@@ -31,7 +31,7 @@ const About = () => {
         <div className="mt-10">
           <h3 className="text-2xl font-semibold text-white mb-4">My Skills</h3>
           <div className="flex flex-wrap justify-center gap-4">
-            {["HTML", "CSS", "JavaScript", "React", "Tailwind CSS, Git"].map((skill) => (
+            {["HTML", "CSS", "JavaScript", "React", "Tailwind CSS", "Git"].map((skill) => (
               <span
                 key={skill}
                 className="bg-purple-500 text-white px-4 py-2 rounded-full text-sm font-medium"
