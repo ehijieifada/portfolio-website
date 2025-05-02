@@ -7,7 +7,7 @@ const projects = [
   {
     title: "BlissTechIQ (E-commerce Site)",
     image: ecommerceImg,
-    url: "https://blisstechiq-bice-omega.vercel.app",
+    url: "https://blisstechiq.netlify.app/",
   },
   {
     title: "CryptoFuture (Crypto Dashboard)",
